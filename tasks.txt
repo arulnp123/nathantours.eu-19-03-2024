@@ -1,0 +1,11 @@
+Principal
+administrator@gmail.com
+12345678
+
+Staff1
+staff1@gmail.com
+12345678
+
+Staff2
+staff2@gmail.com
+12345678
